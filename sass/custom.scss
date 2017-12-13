@@ -1,5 +1,16 @@
+
+
 .nav{
   .fa{
-    font-size: 18px;
+    font-size: 1.5em;
+  }
+}
+.row{
+  padding-top: 1em;
+  padding-bottom: 1em;
+  .fa {
+    display: flex;
+    font-size: 6em;
+    justify-content: center;
   }
 }

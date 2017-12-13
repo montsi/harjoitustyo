@@ -9161,6 +9161,14 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   clip: auto; }
 
 .nav .fa {
-  font-size: 18px; }
+  font-size: 1.5em; }
+
+.row {
+  padding-top: 1em;
+  padding-bottom: 1em; }
+  .row .fa {
+    display: flex;
+    font-size: 6em;
+    justify-content: center; }
 
 /*# sourceMappingURL=app.css.map */
