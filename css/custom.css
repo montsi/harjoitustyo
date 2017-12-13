@@ -1,5 +1,18 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column; }
+
+main {
+  flex: 1 0 auto; }
+
 #index-banner {
   background: url(../images/accessories.jpg) -200px -100px; }
+
+blockquote {
+  margin-left: 2em;
+  padding-left: 1.3rem;
+  border-left: 4px solid #607d8b; }
 
 footer ul {
   display: flex;
@@ -13,8 +26,5 @@ footer ul {
     display: flex;
     font-size: 6em;
     justify-content: center; }
-
-oma .fa {
-  font-size: 1em; }
 
 /*# sourceMappingURL=custom.css.map */
