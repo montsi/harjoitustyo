@@ -9160,8 +9160,13 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   overflow: visible;
   clip: auto; }
 
-.nav .fa {
-  font-size: 1.5em; }
+#index-banner {
+  background: url(../images/accessories.jpg) -200px -100px; }
+
+footer ul {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.6em; }
 
 .row {
   padding-top: 1em;
