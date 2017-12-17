@@ -1,6 +1,6 @@
-# Joni Montonen L4784
+Joni Montonen L4784
 
-## Harjoitustyoraportti
+# Harjoitustyoraportti
 
 
 
