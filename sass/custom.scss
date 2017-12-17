@@ -23,6 +23,36 @@ nav .button-collapse i {
     height: 80px;
     line-height: 80px;
 }
+#sale{
+    background-color: #4ec400;
+    animation: color 2s ease;
+    animation-iteration-count: infinite;
+}
+@keyframes color {
+    
+    25% {
+        background-color: #6600ff;
+    }
+    50% {
+        background-color: #ff4d4d;
+    }
+    75% {
+        background-color: #4caf50;
+    }
+    
+}
+
+#news {
+    .fa{
+        font-size: 1em;
+    }
+    form{
+        
+        .input-field input[type=text]:focus + label {
+            color: #fff;
+        }
+    }
+}
 
 @media only screen and (min-width: 601px){
     nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
@@ -31,7 +61,7 @@ nav .button-collapse i {
     }
 }
 #index-banner{
-    background: url(../images/accessories.jpg) -200px -100px;
+    background: url(../images/accessories.jpg) -95px;
 }
 blockquote{
   margin-left: 2em;
