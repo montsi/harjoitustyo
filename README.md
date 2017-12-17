@@ -1,6 +1,6 @@
 Joni Montonen L4784
 
-# Harjoitustyoraportti
+# Harjoitustyöraportti
 
 ### Aihe
 Web-visualisointi -kurssin harjoitustyöksi tein pienen verkkokauppasivuston ulkoasun ilman toiminnallisuutta. Sivustolla on etusivu-, tuote-, ja yhteydenotto-osiot.  
